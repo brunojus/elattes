@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+import("XML")
+import("hash")
+import("jsonlite")
+import("stringdist")
