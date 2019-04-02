@@ -12,7 +12,9 @@ Installation
 ------------
 
 ```bash
-install.packages("devtools") 
+sudo apt-get install libcurl4-openssl-dev libssl-dev (Debian based user only)
+
+install.packages("devtools",dependencies=T) 
 library(devtools)
 devtools::install_github("brunojus/elattes", dependencies =T)
 ```
