@@ -12,6 +12,7 @@ Installation
 ------------
 
 ```bash
+install.packages("devtools") 
 library(devtools)
 devtools::install_github("brunojus/elattes", dependencies =T)
 ```
