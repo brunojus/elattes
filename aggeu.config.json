@@ -1,0 +1,47 @@
+{
+  "global": {
+    "diretorio_de_saida": "/home/bruno/elattes_pkg/saida/",
+    "itens_desde_o_ano": 2011,
+    "itens_ate_o_ano": 2019,
+    "identificar_publicacoes_com_qualis": "nao",
+    "arquivo_qualis_de_periodicos": "",
+    "diretorio_de_armazenamento_de_cvs": "~/elattes/files"
+  },
+  "publicacoes": {
+    "incluir_artigo_em_periodico": "sim",
+    "incluir_livro_publicado": "nao",
+    "incluir_capitulo_de_livro_publicado": "nao",
+    "incluir_texto_em_jornal_de_noticia": "nao",
+    "incluir_trabalho_em_congresso": "sim",
+    "incluir_artigo_aceito_para_publicacao": "nao",
+    "incluir_outro_tipo_de_producao_bibliografica": "nao"
+  },
+  "orientacoes":{
+    "incluir_orientacao_em_andamento_pos_doutorado": "nao",
+    "incluir_orientacao_em_andamento_doutorado": "nao",
+    "incluir_orientacao_em_andamento_mestrado": "nao",
+    "incluir_orientacao_em_andamento_tcc": "nao",
+    "incluir_orientacao_em_andamento_iniciacao_cientifica": "nao",
+    "incluir_orientacao_concluida_pos_doutorado": "nao",
+    "incluir_orientacao_concluida_doutorado": "nao",
+    "incluir_orientacao_concluida_mestrado": "nao",
+    "incluir_outras_orientacoes_concluidas": "nao"
+  },
+  "informacoes_complementares":{
+    "incluir_projeto": "nao",
+    "incluir_premio": "nao",
+    "incluir_participacao_em_evento": "nao",
+    "incluir_organizacao_de_evento": "nao"
+  },
+  "grafo_de_coautoria":{
+    "incluir_artigo_em_periodico": "sim",
+    "incluir_livro_publicado": "sim",
+    "incluir_capitulo_de_livro_publicado": "sim",
+    "incluir_texto_em_jornal_de_noticia": "sim",
+    "incluir_trabalho_em_congresso": "sim",
+    "incluir_artigo_aceito_para_publicacao": "sim",
+    "incluir_outro_tipo_de_producao_bibliografica": "sim"
+
+  }
+}
+
