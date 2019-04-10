@@ -46,7 +46,7 @@ CreateGraph <- function(profiles,publications){
   #arquivo de linhas com peso
   edge.list.weight <- data.frame()
   #edge.list.weight <- edge.list %>% unite(c(V1, V2), sep = ";") %>%
-  edge.list.weight <- edge.list %>% unite("V1_V2",V1, V2, sep = ";") %>%
+  edge.list.weight <- edge.list %>% unite("V1_V2",c(V1, V2), sep = ";") %>%
     group_by_at(1) %>% tally() %>% separate(1, into = c("V1", "V2"), sep=";")
   colnames(edge.list.weight) <- c("from", "to", "weight")
 

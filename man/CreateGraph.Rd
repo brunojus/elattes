@@ -2,7 +2,7 @@
 % Please edit documentation in R/CREATE_GRAPH.R
 \name{CreateGraph}
 \alias{CreateGraph}
-\title{CreateGraph}
+\title{CreateGraphC}
 \usage{
 CreateGraph(profiles, publications)
 }
