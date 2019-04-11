@@ -65,8 +65,7 @@ CreateGraph <- function(profiles,publications){
   V(g)$eigen <- eigen_centrality(g)$vector
   V(g)$cluster <- cluster_leading_eigen(g)$membership
 
-  graph <- write.graph(g, "g.graphml", format = "graphml")
 
-  print('graph')
+  g
 }
 
