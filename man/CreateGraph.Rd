@@ -11,11 +11,9 @@ CreateGraph(profiles, publications)
 }
 \value{
 return graphs
+
+s
 }
 \description{
 This function convert a set of Lattes CV XML files to a hash table indexed by #'id_LATTES each researcher
-}
-\examples{
-CreateGraph(profiles=profile,publications=publications)
-
 }

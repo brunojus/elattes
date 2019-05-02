@@ -15,7 +15,3 @@ a hash table indexed by id_LATTES of each researcher where each element correspo
 \description{
 This function convert a set of Lattes CV XML files to a hash table indexed by #'id_LATTES each researcher
 }
-\examples{
-ParserXML(files.selected)
-
-}

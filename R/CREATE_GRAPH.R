@@ -6,7 +6,7 @@
 #'
 #' @return return graphs
 #'
-#' @examples CreateGraph(profiles=profile,publications=publications)
+#' s
 #'
 #' @export CreateGraph
 
@@ -38,6 +38,12 @@ CreateGraph <- function(profiles,publications){
   #criacao de rede
   #criando o arquivo de linhas
   edge.list <- data.frame()
+
+  #edge.list <- lapply(1:length(pub.ls),function(i){
+   # rbind(edge.list,
+    #      (t(as.data.frame(combn(pub.ls[[i]], 2)))))
+  #})
+
   for(i in 1:length(pub.ls)){
     edge.list <- rbind(edge.list,
                        (t(as.data.frame(combn(pub.ls[[i]], 2)))))
