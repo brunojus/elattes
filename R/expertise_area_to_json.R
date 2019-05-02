@@ -1,3 +1,15 @@
+#' @title ExpertiseAreaToJson
+#'
+#' 
+#'
+#' @param pessoa a list of Lattes CV XML files
+#'
+#' 
+#'
+#'
+#'
+#' @export ExpertiseAreaToJson
+
 ExpertiseAreaToJson <- function(pessoa) {
 	
 	

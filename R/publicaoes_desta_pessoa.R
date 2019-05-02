@@ -1,3 +1,16 @@
+#' @title PublicaoesDestaPessoa
+#'
+#' 
+#'
+#' @param id,publicacoesPorAno a list of Lattes CV XML files
+#' @param publicacoesPorAno
+#' 
+#'
+#'
+#'
+#' @export PublicaoesDestaPessoa
+
+
 PublicaoesDestaPessoa<-function(id,publicacoesPorAno){
 	periodico<-list() 
 	evento<-list()

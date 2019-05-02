@@ -1,3 +1,15 @@
+#' @title BUSCAR_ARTIGOS_ACEITOS_PARA_PUBLICACAO
+#'
+#' 
+#'
+#' @param doc a list of Lattes CV XML files
+#'
+#' 
+#'
+#'
+#'
+#' @export BUSCAR_ARTIGOS_ACEITOS_PARA_PUBLICACAO
+
 BUSCAR_ARTIGOS_ACEITOS_PARA_PUBLICACAO<-function(doc){
 
 #lista contendo os artigos publicados em periodicos ou revistas

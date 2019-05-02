@@ -1,3 +1,15 @@
+#' @title BUSCAR_ORIENTACOES_CONCLUIDAS_DE_MESTRADO
+#'
+#' 
+#'
+#' @param files a list of Lattes CV XML files
+#'
+#' 
+#'
+#'
+#'
+#' @export BUSCAR_ORIENTACOES_CONCLUIDAS_DE_MESTRADO
+
 BUSCAR_ORIENTACOES_CONCLUIDAS_DE_MESTRADO<-function(doc){
 
 

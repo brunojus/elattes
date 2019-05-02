@@ -1,3 +1,15 @@
+#' @title ConvertDataProfileToJson
+#'
+#' 
+#'
+#' @param dadoBasico a list of Lattes CV XML files
+#' @param publicacoesPorAno
+#' @param orientacoesPorAno
+#'
+#'
+#'
+#' @export ConvertDataProfileToJson
+
 ConvertDataProfileToJson <- function(dadoBasico, publicacoesPorAno, orientacoesPorAno) {
  
   s <- paste("{", sep=" ", " ")

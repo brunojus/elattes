@@ -1,3 +1,15 @@
+#' @title BUSCAR_ORIENTACOES_EM_ANDAMENTO_MESTRADO
+#'
+#' 
+#'
+#' @param doc a list of Lattes CV XML files
+#'
+#' 
+#'
+#'
+#'
+#' @export BUSCAR_ORIENTACOES_EM_ANDAMENTO_MESTRADO
+
 BUSCAR_ORIENTACOES_EM_ANDAMENTO_MESTRADO<-function(doc){
 
 

@@ -1,3 +1,16 @@
+#' @title GetProductionByYearAndType
+#'
+#' 
+#'
+#' @param conf.JSON a list of Lattes CV XML files
+#' @param type.production
+#' @param default
+#' @param ids
+#' @param data
+#' @param levenshtein
+#' @export GetProductionByYearAndType
+
+
 GetProductionByYearAndType<-function(conf.JSON, type.production, default, ids, data, levenshtein){
 
 	if (type.production=='ORIENTACAO'){

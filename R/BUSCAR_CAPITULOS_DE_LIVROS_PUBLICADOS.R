@@ -1,5 +1,17 @@
 
 
+#' @title BUSCAR_CAPITULOS_DE_LIVROS_PUBLICADOS
+#'
+#' 
+#'
+#' @param doc a list of Lattes CV XML files
+#'
+#' 
+#'
+#'
+#'
+#' @export BUSCAR_CAPITULOS_DE_LIVROS_PUBLICADOS
+
 BUSCAR_CAPITULOS_DE_LIVROS_PUBLICADOS<-function(doc){
 	
 

@@ -1,3 +1,16 @@
+
+#' @title BUSCAR_DEMAIS_TIPOS_DE_PRODUCAO_BIBLIOGRAFICA
+#'
+#' 
+#'
+#' @param doc a list of Lattes CV XML files
+#'
+#' 
+#'
+#'
+#'
+#' @export BUSCAR_DEMAIS_TIPOS_DE_PRODUCAO_BIBLIOGRAFICA
+
 BUSCAR_DEMAIS_TIPOS_DE_PRODUCAO_BIBLIOGRAFICA<-function(doc){
 	
  #doc = xmlParse("/home/antonio/Fiocruz/files/9788199690491510.xml")

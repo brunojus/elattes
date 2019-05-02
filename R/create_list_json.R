@@ -1,3 +1,14 @@
+#' @title CreateListJson
+#'
+#' 
+#'
+#' @param path.file
+#' @param name.group
+#' @param year.inicial
+#' @param save.as.path
+#' @param save.as.name.file
+#' @export CreateListJson
+
 CreateListJson<-function(path.file, name.group, year.inicial, year.final, save.as.path, save.as.name.file ){
 
         

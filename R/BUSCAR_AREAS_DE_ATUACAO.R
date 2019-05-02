@@ -1,3 +1,15 @@
+#' @title BUSCAR_AREAS_DE_ATUACAO
+#'
+#' 
+#'
+#' @param doc a document
+#'
+#' 
+#'
+#'
+#'
+#' @export BUSCAR_AREAS_DE_ATUACAO
+
 BUSCAR_AREAS_DE_ATUACAO<-function(doc){
 
 areas<-list()

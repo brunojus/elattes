@@ -1,3 +1,15 @@
+#' @title PartTwoJsonPerfil
+#'
+#' 
+#'
+#' @param publicacoes,tipo a list of Lattes CV XML files
+#' @param tipo
+#' 
+#'
+#'
+#'
+#' @export PartTwoJsonPerfil
+
 PartTwoJsonPerfil<-function(publicacoes,tipo){
 
 	s<-""

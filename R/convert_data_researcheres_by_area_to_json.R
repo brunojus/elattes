@@ -1,3 +1,15 @@
+#' @title ConvertDataResearcheresByAreaToJson
+#'
+#' 
+#'
+#' @param ids, production.by.researcher a list of Lattes CV XML files
+#' @param production.by.researcher
+#' 
+#'
+#'
+#'
+#' @export ConvertDataResearcheresByAreaToJson
+
 ConvertDataResearcheresByAreaToJson <- function (ids, production.by.researcher){
 
 s<-paste('{\"Areas dos pesquisadores\":{', sep=" ")

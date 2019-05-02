@@ -1,3 +1,16 @@
+
+#' @title ValidateXmlAttr
+#'
+#' 
+#'
+#' @param attr, field a list of Lattes CV XML files
+#' @param field
+#' 
+#'
+#'
+#'
+#' @export ValidateXmlAttr
+
 ValidateXmlAttr <- function(attr, field){
  result<-NULL
 

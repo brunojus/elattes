@@ -1,3 +1,14 @@
+#' @title PartOneJsonPerfil
+#'
+#' 
+#'
+#' @param publicacoes a list of Lattes CV XML files
+#'
+#' 
+#'
+#'
+#'
+#' @export PartOneJsonPerfil
 PartOneJsonPerfil<-function(publicacoes){
 
 

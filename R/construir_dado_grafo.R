@@ -1,3 +1,15 @@
+#' @title ConstruirDadoGrafo
+#'
+#' 
+#'
+#' @param dadosBasicos a list of Lattes CV XML files
+#' @param publicacoesPorAno
+#' @param configuracao
+#' @param default
+#' 
+#'
+#' @export ConstruirDadoGrafo
+
 ConstruirDadoGrafo <- function(dadosBasicos, publicacoesPorAno, configuracao, default) {
 
 	s <- paste('{ \"label\": \"FiocruzNetwork\", \"nodes\": [', sep=" ", " ")

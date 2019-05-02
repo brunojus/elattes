@@ -1,4 +1,14 @@
-
+#' @title BUSCAR_TRABALHOS_EM_EVENTOS
+#'
+#' 
+#'
+#' @param doc a list of Lattes CV XML files
+#'
+#' 
+#'
+#'
+#'
+#' @export BUSCAR_TRABALHOS_EM_EVENTOS
 
 BUSCAR_TRABALHOS_EM_EVENTOS<-function(doc){
 	

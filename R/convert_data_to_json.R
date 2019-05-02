@@ -1,3 +1,14 @@
+#' @title ConvertDataToJson
+#'
+#' 
+#'
+#' @param conf.JSON, type.production, default, production.by.year.and.type a list of Lattes CV XML files
+#' @param type.production
+#' @param default
+#' @param production.by.year.and.type
+#' 
+#'
+#' @export ConvertDataToJson
 ConvertDataToJson<-function(conf.JSON, type.production, default, production.by.year.and.type){
 
 types<-NULL

@@ -1,3 +1,15 @@
+#' @title Validate
+#'
+#' 
+#'
+#' @param element, field a list of Lattes CV XML files
+#' @param field
+#' 
+#'
+#'
+#'
+#' @export Validate
+
 Validate <- function (element, field){
 
  result<-NULL

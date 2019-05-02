@@ -1,3 +1,15 @@
+#' @title GetDefaultParameters
+#'
+#' 
+#'
+#' 
+#'
+#' 
+#'
+#'
+#'
+#' @export GetDefaultParameters
+
 GetDefaultParameters <- function(){
 	
 default <- hash()

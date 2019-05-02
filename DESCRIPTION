@@ -6,10 +6,10 @@ Author: Bruno Justino Garcia Praciano
 Maintainer: Bruno Justino Garcia Praciano <bruno.justino@ieee.org>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
-Imports: XML, hash, jsonlite, stringdist,dplyr,magrittr,tidyr,mosaic,igraph
+Imports: XML, hash, jsonlite, stringdist,dplyr,magrittr,igraph
 
 

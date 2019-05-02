@@ -1,5 +1,15 @@
 
-
+#' @title BUSCAR_LIVROS_PUBLICADOS_OU_ORGANIZADOS
+#'
+#' 
+#'
+#' @param doc a list of Lattes CV XML files
+#'
+#' 
+#'
+#'
+#'
+#' @export BUSCAR_LIVROS_PUBLICADOS_OU_ORGANIZADOS
 BUSCAR_LIVROS_PUBLICADOS_OU_ORGANIZADOS<-function(doc){
 	
  #doc = xmlParse("/home/antonio/Fiocruz/files/0311082095842942.xml")

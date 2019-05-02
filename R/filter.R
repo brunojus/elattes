@@ -1,3 +1,14 @@
+#' @title Filter
+#'
+#' 
+#'
+#' @param ids tipo a list of Lattes CV XML files
+#' @param h
+#' @param parametros
+#' @param tipo
+#'
+#'
+#' @export Filter
 Filter <- function(ids, h, parametros, tipo) {
  
 	initial<-parametros$gerais$global$itens_desde_o_ano

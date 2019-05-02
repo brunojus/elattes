@@ -1,3 +1,15 @@
+#' @title GetTypeProductionNoDuplicate
+#'
+#' 
+#'
+#' @param publicacoesPorAno a list of Lattes CV XML files
+#' @param levenshtein
+#' @param tipo
+#' @param tipoDaProducao
+#' @param 
+#'
+#' @export GetTypeProductionNoDuplicate
+
 GetTypeProductionNoDuplicate <- function(publicacoesPorAno, levenshtein, tipo, tipoDaProducao) {
  
 	result <- NULL

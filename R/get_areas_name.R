@@ -1,3 +1,15 @@
+#' @title GetAreasName
+#'
+#' 
+#'
+#' @param ids.researcher  a list of Lattes CV XML files
+#' @param production.by.researcher
+#' 
+#'
+#'
+#'
+#' @export GetAreasName
+
 GetAreasName <-function(ids.researcher, production.by.researcher){
 names.area<-list()
 

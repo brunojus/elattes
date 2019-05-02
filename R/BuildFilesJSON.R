@@ -1,3 +1,14 @@
+#' @title BuildFilesJSON
+#'
+#' 
+#'
+#' @param conf.setup
+#'
+#' 
+#'
+#'
+#'
+#' @export BuildFilesJSON
 
 BuildFilesJSON <- function(conf.setup) {
 

@@ -1,3 +1,16 @@
+
+#' @title BUSCAR_ORIENTACAO_EM_ANDAMENTO_DE_POS_DOUTORADO
+#'
+#' 
+#'
+#' @param doc a list of Lattes CV XML files
+#'
+#' 
+#'
+#'
+#'
+#' @export BUSCAR_ORIENTACAO_EM_ANDAMENTO_DE_POS_DOUTORADO
+
 BUSCAR_ORIENTACAO_EM_ANDAMENTO_DE_POS_DOUTORADO<-function(doc){
 
 

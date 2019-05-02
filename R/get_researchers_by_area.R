@@ -1,3 +1,12 @@
+#' @title GetResearchersByArea
+#'
+#' 
+#'
+#' @param ids.researcher a list of Lattes CV XML files
+#' @param production.by.researcher
+#'
+#' @export GetResearchersByArea
+
 GetResearchersByArea <- function(ids.researcher, production.by.researcher){
 
 out.researchers.by.area<-hash()

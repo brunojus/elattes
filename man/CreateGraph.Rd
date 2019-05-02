@@ -7,12 +7,10 @@
 CreateGraph(profiles, publications)
 }
 \arguments{
-\item{json}{of profiles and publications}
+\item{profiles, publications}{json of profiles and publications}
 }
 \value{
 return graphs
-
-s
 }
 \description{
 This function convert a set of Lattes CV XML files to a hash table indexed by #'id_LATTES each researcher

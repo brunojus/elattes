@@ -1,3 +1,16 @@
+#' @title GetParameter
+#'
+#' 
+#'
+#' @param path a list of Lattes CV XML files
+#'
+#' 
+#'
+#'
+#'
+#' @export GetParameter
+
+
 GetParameter <-function(path){
 
 	parametrosGerais<-fromJSON(path, simplifyVector = FALSE)

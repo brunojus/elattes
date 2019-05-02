@@ -1,4 +1,18 @@
 
+#' @title BUSCAR_ARTIGOS_PUBLICADOS
+#'
+#' 
+#'
+#' @param doc a list of Lattes CV XML files
+#'
+#' 
+#'
+#'
+#'
+#' @export BUSCAR_ARTIGOS_PUBLICADOS
+
+
+
 
 #Esta função retorna todas as publicações publicadas em periodicos de um curriculo caso essas publicações apareçam em seu curriculo e NULL caso contrário. 
 

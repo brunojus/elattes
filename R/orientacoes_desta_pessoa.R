@@ -1,3 +1,16 @@
+#' @title OrientacoesDestaPessoa
+#'
+#' 
+#'
+#' @param id a list of Lattes CV XML files
+#' @param orientacoesPorAno
+#' 
+#'
+#'
+#'
+#' @export OrientacoesDestaPessoa
+
+
 OrientacoesDestaPessoa<-function(id,orientacoesPorAno){
 	
 	orientacao_concluida_mestrado <-list() 

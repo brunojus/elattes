@@ -2,11 +2,11 @@
 #'
 #' @description This function convert a set of Lattes CV XML files to a hash table indexed by #'id_LATTES each researcher
 #'
-#' @param json of profiles and publications
-#'
+#' @param profiles,publications json of profiles and publications
+#' @param publications
 #' @return return graphs
 #'
-#' s
+#'
 #'
 #' @export CreateGraph
 

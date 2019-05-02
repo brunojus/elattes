@@ -1,3 +1,15 @@
+#' @title SeparateByYear
+#'
+#' 
+#'
+#' @param ids a list of Lattes CV XML files
+#' @param h
+#' @param parametros
+#' @param tipo
+#' @param tipoDaProducao
+#'
+#' @export SeparateByYear
+
 SeparateByYear <- function (ids, h, parametros, tipo, tipoDaProducao ) {
 
 	
