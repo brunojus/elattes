@@ -1,9 +1,10 @@
-#' @title CreateGraphC
+#' @title CreateGraph
 #'
 #' @description This function convert a set of Lattes CV XML files to a hash table indexed by #'id_LATTES each researcher
 #'
-#' @param profiles,publications json of profiles and publications
-#' @param publications
+#' @param profiles json of profiles and publications.
+#' @param publications field a list of Lattes CV XML files.
+#' 
 #' @return return graphs
 #'
 #'

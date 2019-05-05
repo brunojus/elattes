@@ -7,7 +7,9 @@
 ConvertDataResearcheresByAreaToJson(ids, production.by.researcher)
 }
 \arguments{
-\item{ids, }{production.by.researcher a list of Lattes CV XML files}
+\item{ids, }{production.by.researcher a list of Lattes CV XML files.}
+
+\item{production.by.researcher}{field a list of Lattes CV XML files.}
 }
 \description{
 ConvertDataResearcheresByAreaToJson

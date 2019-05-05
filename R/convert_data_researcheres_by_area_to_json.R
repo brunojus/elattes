@@ -2,8 +2,8 @@
 #'
 #' 
 #'
-#' @param ids, production.by.researcher a list of Lattes CV XML files
-#' @param production.by.researcher
+#' @param ids, production.by.researcher a list of Lattes CV XML files.
+#' @param production.by.researcher field a list of Lattes CV XML files.
 #' 
 #'
 #'

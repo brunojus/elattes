@@ -7,7 +7,15 @@
 SeparateByYear(ids, h, parametros, tipo, tipoDaProducao)
 }
 \arguments{
-\item{ids, }{h, parametros, tipo, tipoDaProducao  a list of Lattes CV XML files}
+\item{ids}{a list of Lattes CV XML files.}
+
+\item{h}{field a list of Lattes CV XML files.}
+
+\item{parametros}{field a list of Lattes CV XML files.}
+
+\item{tipo}{field a list of Lattes CV XML files.}
+
+\item{tipoDaProducao}{field a list of Lattes CV XML files.}
 }
 \description{
 SeparateByYear

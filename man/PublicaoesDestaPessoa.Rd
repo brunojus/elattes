@@ -7,7 +7,9 @@
 PublicaoesDestaPessoa(id, publicacoesPorAno)
 }
 \arguments{
-\item{id, publicacoesPorAno}{a list of Lattes CV XML files}
+\item{id}{a list of Lattes CV XML files.}
+
+\item{publicacoesPorAno}{field a list of Lattes CV XML files.}
 }
 \description{
 PublicaoesDestaPessoa

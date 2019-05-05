@@ -7,7 +7,9 @@
 PartTwoJsonPerfil(publicacoes, tipo)
 }
 \arguments{
-\item{publicacoes, tipo}{a list of Lattes CV XML files}
+\item{publicacoes}{a list of Lattes CV XML files.}
+
+\item{tipo}{field a list of Lattes CV XML files.}
 }
 \description{
 PartTwoJsonPerfil

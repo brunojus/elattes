@@ -8,7 +8,17 @@ GetProductionByYearAndType(conf.JSON, type.production, default, ids, data,
   levenshtein)
 }
 \arguments{
-\item{conf.JSON, }{type.production, default, ids, data, levenshtein a list of Lattes CV XML files}
+\item{conf.JSON}{a list of Lattes CV XML files.}
+
+\item{type.production}{field a list of Lattes CV XML files.}
+
+\item{default}{field a list of Lattes CV XML files.}
+
+\item{ids}{field a list of Lattes CV XML files.}
+
+\item{data}{field a list of Lattes CV XML files.}
+
+\item{levenshtein}{field a list of Lattes CV XML files.}
 }
 \description{
 GetProductionByYearAndType

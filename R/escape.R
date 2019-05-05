@@ -2,7 +2,7 @@
 #'
 #' 
 #'
-#' @param text.var a list of Lattes CV XML files
+#' @param text.var a list of Lattes CV XML files.
 #'
 #' 
 #'

@@ -2,9 +2,9 @@
 #'
 #' 
 #'
-#' @param dadoBasico a list of Lattes CV XML files
-#' @param publicacoesPorAno
-#' @param orientacoesPorAno
+#' @param dadoBasico a list of Lattes CV XML files.
+#' @param publicacoesPorAno field a list of Lattes CV XML files.
+#' @param orientacoesPorAno field a list of Lattes CV XML files.
 #'
 #'
 #'

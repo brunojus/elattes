@@ -7,7 +7,17 @@
 Execute(ids, dado, conf, tipo, doTipo, levenshtein)
 }
 \arguments{
-\item{ids, }{dado, conf, tipo, doTipo,levenshtein a list of Lattes CV XML files}
+\item{ids}{a list of Lattes CV XML files.}
+
+\item{dado}{field a list of Lattes CV XML files.}
+
+\item{conf}{field a list of Lattes CV XML files.}
+
+\item{tipo}{field a list of Lattes CV XML files.}
+
+\item{doTipo}{field a list of Lattes CV XML files.}
+
+\item{levenshtein}{field a list of Lattes CV XML files.}
 }
 \description{
 Execute

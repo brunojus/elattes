@@ -3,8 +3,8 @@
 #'
 #' 
 #'
-#' @param attr, field a list of Lattes CV XML files
-#' @param field
+#' @param attr, field a list of Lattes CV XML files.
+#' @param field field a list of Lattes CV XML files.
 #' 
 #'
 #'

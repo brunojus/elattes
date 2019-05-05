@@ -7,7 +7,9 @@
 GetAreasName(ids.researcher, production.by.researcher)
 }
 \arguments{
-\item{ids.researcher, }{production.by.researcher a list of Lattes CV XML files}
+\item{ids.researcher}{a list of Lattes CV XML files.}
+
+\item{production.by.researcher}{field a list of Lattes CV XML files.}
 }
 \description{
 GetAreasName

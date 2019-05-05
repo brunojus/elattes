@@ -2,8 +2,8 @@
 #'
 #' 
 #'
-#' @param element, field a list of Lattes CV XML files
-#' @param field
+#' @param element, field a list of Lattes CV XML files.
+#' @param field field a list of Lattes CV XML files.
 #' 
 #'
 #'

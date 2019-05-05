@@ -8,7 +8,17 @@ CreateListJson(path.file, name.group, year.inicial, year.final,
   save.as.path, save.as.name.file)
 }
 \arguments{
-\item{path.file, }{name.group, year.inicial, year.final, save.as.path, save.as.name.file a list of Lattes CV XML files}
+\item{path.file}{field a list of Lattes CV XML files.}
+
+\item{name.group}{field a list of Lattes CV XML files.}
+
+\item{year.inicial}{field a list of Lattes CV XML files.}
+
+\item{year.final}{field a list of Lattes CV XML files.}
+
+\item{save.as.path}{field a list of Lattes CV XML files.}
+
+\item{save.as.name.file}{field a list of Lattes CV XML files.}
 }
 \description{
 CreateListJson

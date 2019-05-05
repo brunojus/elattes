@@ -8,7 +8,13 @@ GetTypeProductionNoDuplicate(publicacoesPorAno, levenshtein, tipo,
   tipoDaProducao)
 }
 \arguments{
-\item{publicacoesPorAno, }{levenshtein, tipo, tipoDaProducao a list of Lattes CV XML files}
+\item{publicacoesPorAno}{a list of Lattes CV XML files.}
+
+\item{levenshtein}{field a list of Lattes CV XML files.}
+
+\item{tipo}{field a list of Lattes CV XML files.}
+
+\item{tipoDaProducao}{field a list of Lattes CV XML files.}
 }
 \description{
 GetTypeProductionNoDuplicate

@@ -2,10 +2,10 @@
 #'
 #' 
 #'
-#' @param conf.JSON, type.production, default, production.by.year.and.type a list of Lattes CV XML files
-#' @param type.production
-#' @param default
-#' @param production.by.year.and.type
+#' @param conf.JSON, type.production, default, production.by.year.and.type a list of Lattes CV XML files.
+#' @param type.production field a list of Lattes CV XML files.
+#' @param default field a list of Lattes CV XML files.
+#' @param production.by.year.and.type field a list of Lattes CV XML files.
 #' 
 #'
 #' @export ConvertDataToJson

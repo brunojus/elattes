@@ -7,7 +7,7 @@
 BuildFilesJSON(conf.setup)
 }
 \arguments{
-\item{conf.setup}{}
+\item{conf.setup}{field a list of Lattes CV XML files}
 }
 \description{
 BuildFilesJSON

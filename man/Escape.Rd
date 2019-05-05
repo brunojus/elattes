@@ -7,7 +7,7 @@
 Escape(text.var)
 }
 \arguments{
-\item{text.var}{a list of Lattes CV XML files}
+\item{text.var}{a list of Lattes CV XML files.}
 }
 \description{
 Escape

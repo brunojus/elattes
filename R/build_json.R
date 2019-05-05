@@ -2,10 +2,10 @@
 #'
 #' 
 #'
-#' @param pessoa , field a list of Lattes CV XML files
-#' @param publicacoes , field a list of Lattes CV XML files
-#' @param orientacoes , field a list of Lattes CV XML files
-#' @param senioridade , field a list of Lattes CV XML files
+#' @param pessoa  field a list of Lattes CV XML files.
+#' @param publicacoes  field a list of Lattes CV XML files.
+#' @param orientacoes  field a list of Lattes CV XML files.
+#' @param senioridade  field a list of Lattes CV XML files.
 #'
 #'
 #' @export BuildJson

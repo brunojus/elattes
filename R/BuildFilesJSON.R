@@ -2,7 +2,7 @@
 #'
 #' 
 #'
-#' @param conf.setup
+#' @param conf.setup field a list of Lattes CV XML files
 #'
 #' 
 #'

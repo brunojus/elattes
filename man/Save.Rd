@@ -7,7 +7,11 @@
 Save(content, path, filename)
 }
 \arguments{
-\item{content, }{path, filename  a list of Lattes CV XML files}
+\item{content}{a list of Lattes CV XML files.}
+
+\item{path}{field a list of Lattes CV XML files.}
+
+\item{filename}{field a list of Lattes CV XML files.}
 }
 \description{
 Save

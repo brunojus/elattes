@@ -7,7 +7,7 @@
 ExpertiseAreaToJson(pessoa)
 }
 \arguments{
-\item{pessoa}{a list of Lattes CV XML files}
+\item{pessoa}{a list of Lattes CV XML files.}
 }
 \description{
 ExpertiseAreaToJson

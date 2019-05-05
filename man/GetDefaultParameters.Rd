@@ -6,9 +6,6 @@
 \usage{
 GetDefaultParameters()
 }
-\arguments{
-\item{files}{a list of Lattes CV XML files}
-}
 \description{
 GetDefaultParameters
 }

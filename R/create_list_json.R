@@ -2,11 +2,12 @@
 #'
 #' 
 #'
-#' @param path.file
-#' @param name.group
-#' @param year.inicial
-#' @param save.as.path
-#' @param save.as.name.file
+#' @param path.file field a list of Lattes CV XML files.
+#' @param name.group field a list of Lattes CV XML files.
+#' @param year.inicial field a list of Lattes CV XML files.
+#' @param year.final field a list of Lattes CV XML files.
+#' @param save.as.path field a list of Lattes CV XML files.
+#' @param save.as.name.file field a list of Lattes CV XML files.
 #' @export CreateListJson
 
 CreateListJson<-function(path.file, name.group, year.inicial, year.final, save.as.path, save.as.name.file ){
@@ -27,6 +28,9 @@ CreateListJson<-function(path.file, name.group, year.inicial, year.final, save.a
 
 
 }
+
+
+utils::globalVariables("read.table")
 
 A_load <- function (f) {
       A <- as.matrix(read.table(f, colClasses=c("character")))

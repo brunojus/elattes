@@ -2,12 +2,14 @@
 % Please edit documentation in R/CREATE_GRAPH.R
 \name{CreateGraph}
 \alias{CreateGraph}
-\title{CreateGraphC}
+\title{CreateGraph}
 \usage{
 CreateGraph(profiles, publications)
 }
 \arguments{
-\item{profiles, publications}{json of profiles and publications}
+\item{profiles}{json of profiles and publications.}
+
+\item{publications}{field a list of Lattes CV XML files.}
 }
 \value{
 return graphs

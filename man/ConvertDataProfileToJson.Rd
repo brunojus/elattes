@@ -7,7 +7,11 @@
 ConvertDataProfileToJson(dadoBasico, publicacoesPorAno, orientacoesPorAno)
 }
 \arguments{
-\item{doc}{a list of Lattes CV XML files}
+\item{dadoBasico}{a list of Lattes CV XML files.}
+
+\item{publicacoesPorAno}{field a list of Lattes CV XML files.}
+
+\item{orientacoesPorAno}{field a list of Lattes CV XML files.}
 }
 \description{
 ConvertDataProfileToJson

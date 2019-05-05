@@ -3,13 +3,16 @@ Type: Package
 Title: Elattes
 Version: 1.0.0
 Author: Bruno Justino Garcia Praciano
-Maintainer: Bruno Justino Garcia Praciano <bruno.justino@ieee.org>
+Maintainer: Bruno Justino Garcia Praciano <bjpraciano@gmail.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
-License: MIT
+License: GPL-2
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
 Imports: XML, hash, jsonlite, stringdist,dplyr,magrittr,igraph
-
-
+Roxygen: list(markdown = TRUE)
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

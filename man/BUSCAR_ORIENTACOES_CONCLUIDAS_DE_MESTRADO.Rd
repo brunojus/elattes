@@ -7,7 +7,7 @@
 BUSCAR_ORIENTACOES_CONCLUIDAS_DE_MESTRADO(doc)
 }
 \arguments{
-\item{files}{a list of Lattes CV XML files}
+\item{doc}{a list of Lattes CV XML files}
 }
 \description{
 BUSCAR_ORIENTACOES_CONCLUIDAS_DE_MESTRADO

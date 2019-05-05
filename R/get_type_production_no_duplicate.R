@@ -2,11 +2,11 @@
 #'
 #' 
 #'
-#' @param publicacoesPorAno a list of Lattes CV XML files
-#' @param levenshtein
-#' @param tipo
-#' @param tipoDaProducao
-#' @param 
+#' @param publicacoesPorAno a list of Lattes CV XML files.
+#' @param levenshtein field a list of Lattes CV XML files.
+#' @param tipo field a list of Lattes CV XML files.
+#' @param tipoDaProducao field a list of Lattes CV XML files.
+#'
 #'
 #' @export GetTypeProductionNoDuplicate
 

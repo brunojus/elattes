@@ -2,9 +2,9 @@
 #'
 #' 
 #'
-#' @param content  a list of Lattes CV XML files
-#' @param path
-#' @param filename
+#' @param content  a list of Lattes CV XML files.
+#' @param path field a list of Lattes CV XML files.
+#' @param filename field a list of Lattes CV XML files.
 #'
 #'
 #'

@@ -7,7 +7,9 @@
 OrientacoesDestaPessoa(id, orientacoesPorAno)
 }
 \arguments{
-\item{id, orientacoesPorAno}{a list of Lattes CV XML files}
+\item{id}{a list of Lattes CV XML files.}
+
+\item{orientacoesPorAno}{field a list of Lattes CV XML files.}
 }
 \description{
 OrientacoesDestaPessoa

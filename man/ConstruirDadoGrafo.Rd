@@ -7,7 +7,13 @@
 ConstruirDadoGrafo(dadosBasicos, publicacoesPorAno, configuracao, default)
 }
 \arguments{
-\item{doc}{a list of Lattes CV XML files}
+\item{dadosBasicos}{a list of Lattes CV XML files.}
+
+\item{publicacoesPorAno}{field a list of Lattes CV XML files.}
+
+\item{configuracao}{field a list of Lattes CV XML files.}
+
+\item{default}{field a list of Lattes CV XML files.}
 }
 \description{
 ConstruirDadoGrafo

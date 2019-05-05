@@ -7,7 +7,13 @@
 BuildJson(pessoa, publicacoes, orientacoes, senioridade)
 }
 \arguments{
-\item{pessoa, }{publicacoes, orientacoes, senioridade}
+\item{pessoa}{field a list of Lattes CV XML files.}
+
+\item{publicacoes}{field a list of Lattes CV XML files.}
+
+\item{orientacoes}{field a list of Lattes CV XML files.}
+
+\item{senioridade}{field a list of Lattes CV XML files.}
 }
 \description{
 BuildJson

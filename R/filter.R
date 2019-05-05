@@ -2,10 +2,10 @@
 #'
 #' 
 #'
-#' @param ids tipo a list of Lattes CV XML files
-#' @param h
-#' @param parametros
-#' @param tipo
+#' @param ids tipo a list of Lattes CV XML files.
+#' @param h field a list of Lattes CV XML files.
+#' @param parametros field a list of Lattes CV XML files.
+#' @param tipo field a list of Lattes CV XML files.
 #'
 #'
 #' @export Filter

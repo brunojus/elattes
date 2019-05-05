@@ -2,7 +2,7 @@
 #'
 #' 
 #'
-#' @param pessoa a list of Lattes CV XML files
+#' @param pessoa a list of Lattes CV XML files.
 #'
 #' 
 #'

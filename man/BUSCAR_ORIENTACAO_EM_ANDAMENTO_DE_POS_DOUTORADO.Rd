@@ -8,7 +8,7 @@
 BUSCAR_ORIENTACAO_EM_ANDAMENTO_DE_POS_DOUTORADO(doc)
 }
 \arguments{
-\item{files}{a list of Lattes CV XML files}
+\item{doc}{a list of Lattes CV XML files}
 }
 \description{
 BUSCAR_ORIENTACAO_EM_ANDAMENTO_DE_POS_DOUTORADO

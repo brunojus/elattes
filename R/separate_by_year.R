@@ -2,11 +2,11 @@
 #'
 #' 
 #'
-#' @param ids a list of Lattes CV XML files
-#' @param h
-#' @param parametros
-#' @param tipo
-#' @param tipoDaProducao
+#' @param ids a list of Lattes CV XML files.
+#' @param h field a list of Lattes CV XML files.
+#' @param parametros field a list of Lattes CV XML files.
+#' @param tipo field a list of Lattes CV XML files.
+#' @param tipoDaProducao field a list of Lattes CV XML files.
 #'
 #' @export SeparateByYear
 

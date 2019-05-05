@@ -2,8 +2,8 @@
 #'
 #' 
 #'
-#' @param id,publicacoesPorAno a list of Lattes CV XML files
-#' @param publicacoesPorAno
+#' @param id  a list of Lattes CV XML files.
+#' @param publicacoesPorAno field a list of Lattes CV XML files.
 #' 
 #'
 #'

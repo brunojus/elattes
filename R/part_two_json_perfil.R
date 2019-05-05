@@ -2,8 +2,8 @@
 #'
 #' 
 #'
-#' @param publicacoes,tipo a list of Lattes CV XML files
-#' @param tipo
+#' @param publicacoes a list of Lattes CV XML files.
+#' @param tipo field a list of Lattes CV XML files.
 #' 
 #'
 #'

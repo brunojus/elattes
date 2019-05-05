@@ -1,14 +1,15 @@
 #' @title BUSCAR_AREAS_DE_ATUACAO
 #'
-#' 
+#'
 #'
 #' @param doc a document
 #'
-#' 
+#'
 #'
 #'
 #'
 #' @export BUSCAR_AREAS_DE_ATUACAO
+#'
 
 BUSCAR_AREAS_DE_ATUACAO<-function(doc){
 
@@ -22,12 +23,12 @@ tryCatch(areas<-xmlRoot(doc)[["DADOS-GERAIS"]][["AREAS-DE-ATUACAO"]][c("AREA-DE-
 	,
 
 	error = function(e) {
-	
+
 	}  )
 
 
 
-if(length(areas) > 0) { 
+if(length(areas) > 0) {
 	for(area in areas){
 
 		AREA_DE_ATUACAO <-new.env(parent=emptyenv())
@@ -37,7 +38,7 @@ if(length(areas) > 0) {
 			AREA_DE_ATUACAO$NOME_DA_ESPECIALIDADE<-xmlGetAttr(area, "NOME-DA-ESPECIALIDADE")
 
 		AREAS_DE_ATUACAO<-c(AREAS_DE_ATUACAO,list(AREA_DE_ATUACAO))
-	  
+
 	  }
 	  Resultado<-AREAS_DE_ATUACAO
  } else {

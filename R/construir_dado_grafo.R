@@ -2,10 +2,10 @@
 #'
 #' 
 #'
-#' @param dadosBasicos a list of Lattes CV XML files
-#' @param publicacoesPorAno
-#' @param configuracao
-#' @param default
+#' @param dadosBasicos a list of Lattes CV XML files.
+#' @param publicacoesPorAno field a list of Lattes CV XML files.
+#' @param configuracao field a list of Lattes CV XML files.
+#' @param default field a list of Lattes CV XML files.
 #' 
 #'
 #' @export ConstruirDadoGrafo

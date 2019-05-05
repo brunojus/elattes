@@ -8,7 +8,13 @@ ConvertDataToJson(conf.JSON, type.production, default,
   production.by.year.and.type)
 }
 \arguments{
-\item{conf.JSON, }{type.production, default, production.by.year.and.type a list of Lattes CV XML files}
+\item{conf.JSON, }{type.production, default, production.by.year.and.type a list of Lattes CV XML files.}
+
+\item{type.production}{field a list of Lattes CV XML files.}
+
+\item{default}{field a list of Lattes CV XML files.}
+
+\item{production.by.year.and.type}{field a list of Lattes CV XML files.}
 }
 \description{
 ConvertDataToJson

@@ -2,8 +2,8 @@
 #'
 #' 
 #'
-#' @param ids.researcher a list of Lattes CV XML files
-#' @param production.by.researcher
+#' @param ids.researcher a list of Lattes CV XML files.
+#' @param production.by.researcher field a list of Lattes CV XML files.
 #'
 #' @export GetResearchersByArea
 

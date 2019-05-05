@@ -7,7 +7,9 @@
 Validate(element, field)
 }
 \arguments{
-\item{element, }{field a list of Lattes CV XML files}
+\item{element, }{field a list of Lattes CV XML files.}
+
+\item{field}{field a list of Lattes CV XML files.}
 }
 \description{
 Validate

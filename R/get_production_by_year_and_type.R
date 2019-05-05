@@ -2,12 +2,12 @@
 #'
 #' 
 #'
-#' @param conf.JSON a list of Lattes CV XML files
-#' @param type.production
-#' @param default
-#' @param ids
-#' @param data
-#' @param levenshtein
+#' @param conf.JSON a list of Lattes CV XML files.
+#' @param type.production field a list of Lattes CV XML files.
+#' @param default field a list of Lattes CV XML files.
+#' @param ids field a list of Lattes CV XML files.
+#' @param data field a list of Lattes CV XML files.
+#' @param levenshtein field a list of Lattes CV XML files.
 #' @export GetProductionByYearAndType
 
 

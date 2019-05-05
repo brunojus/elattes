@@ -7,7 +7,9 @@
 ValidateXmlAttr(attr, field)
 }
 \arguments{
-\item{attr, }{field a list of Lattes CV XML files}
+\item{attr, }{field a list of Lattes CV XML files.}
+
+\item{field}{field a list of Lattes CV XML files.}
 }
 \description{
 ValidateXmlAttr

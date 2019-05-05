@@ -2,7 +2,7 @@
 #'
 #' 
 #'
-#' @param files a list of Lattes CV XML files
+#' @param doc a list of Lattes CV XML files
 #'
 #' 
 #'
