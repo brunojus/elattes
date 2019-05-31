@@ -12,7 +12,7 @@ Installation
 ------------
 
 ```bash
-sudo apt-get install libcurl4-openssl-dev libssl-dev (Debian based user only)
+sudo apt-get install libcurl4-openssl-dev libssl-dev r-cran-xml (Debian based user only)
 
 install.packages("devtools",dependencies=T) 
 library(devtools)
