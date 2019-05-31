@@ -10,7 +10,7 @@ License: GPL-2
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
-Imports: XML, hash, jsonlite, stringdist,dplyr,magrittr,igraph
+Imports: XML, hash, jsonlite, stringdist,dplyr,magrittr,igraph,tidyr
 Roxygen: list(markdown = TRUE)
 Suggests: 
     knitr,
